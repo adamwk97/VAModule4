@@ -15,3 +15,5 @@ After subsetting the data, importing it into Tableau Public and experimenting, I
 The second graph I created using Tableau Public was a bubble chart. This graph is unique from the bar chart, and most other graphs for that matter, as it focuses more on visual appeal and popping rather than numbers and informative details. However, this graph is also simple yet effective as it takes no more than a quick glance to see relatively how popular and how many copies have been sold from each publisher.
 
 ![graph2](./images/videogamesalesbubble.png)
+
+[Visit my GitHub Profile](https://github.com/adamwk97)
